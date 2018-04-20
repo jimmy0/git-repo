@@ -5,5 +5,5 @@
 - feature-CC
 - feature-D
 - plan #1
-- fix bug the  #2
+- fix bug the kwg #2
 
