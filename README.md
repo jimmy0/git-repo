@@ -5,5 +5,5 @@
 - feature-CC
 - feature-D
 - plan #1
-- fix bug #2
+- fix bug the #2
 
