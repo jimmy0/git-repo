@@ -6,4 +6,5 @@
 - feature-D
 - plan #1
 - fix bug the kwg #2
+- feature-E
 
